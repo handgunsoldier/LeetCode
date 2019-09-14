@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(MergeIntervals.cpp MergeIntervals)
+BASE_CMAKE_LEAVE()

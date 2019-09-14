@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(ThreadPool.cpp ThreadPool)
+BASE_CMAKE_LEAVE()

@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(TrappingRainWater TrappingRainWater.cpp)
+BASE_CMAKE_LEAVE()

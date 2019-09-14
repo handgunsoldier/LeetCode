@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(SudokuSolver SudokuSolver.cpp)
+BASE_CMAKE_LEAVE()

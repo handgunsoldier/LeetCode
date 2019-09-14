@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(MergeKSortedLists.cpp MergeKSortedLists)
+BASE_CMAKE_LEAVE()

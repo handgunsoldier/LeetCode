@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(StackHeapOnly.cpp StackHeapOnly)
+BASE_CMAKE_LEAVE()

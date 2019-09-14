@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(NumberCodding.cpp NumberCodding)
+BASE_CMAKE_LEAVE()

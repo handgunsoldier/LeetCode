@@ -1,0 +1,3 @@
+BASE_CMAKE_ENTER()
+ADD_EXECUTABLE(Singleton Singleton.cpp)
+BASE_CMAKE_LEAVE()
